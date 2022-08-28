@@ -1,2 +1,2 @@
 # first-repo
-first repo we created for learning
+the code of Match or Mix game
